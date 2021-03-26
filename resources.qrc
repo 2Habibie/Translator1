@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/32x32/Actions-help-about-icon.png</file>
+        <file>resources/icons/32x32/Actions-help-hint-icon.png</file>
+        <file>resources/icons/32x32/Button-exit-icon.png</file>
+        <file>resources/icons/32x32/Categories-preferences-system-icon.png</file>
+        <file>resources/icons/32x32/CN-China-Flag-icon.png</file>
+        <file>resources/icons/32x32/Devices-printer-laser-icon.png</file>
+        <file>resources/icons/32x32/File-New-icon.png</file>
+        <file>resources/icons/32x32/FR-France-Flag-icon.png</file>
+        <file>resources/icons/32x32/open-file-icon.png</file>
+        <file>resources/icons/32x32/Save-as-icon.png</file>
+        <file>resources/icons/32x32/Save-icon.png</file>
+        <file>resources/icons/32x32/US-United-States-Flag-icon.png</file>
+        <file>resources/languages/Translation_en_US.qm</file>
+        <file>resources/languages/Translation_fr_FR.qm</file>
+        <file>resources/languages/Translation_zh_CN.qm</file>
+    </qresource>
+</RCC>
